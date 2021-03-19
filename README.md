@@ -6,4 +6,5 @@ go mod init quickstart
 ## STEP-2
 go run main.go
 
-### Sample OutPut:= 
+### OutPut:= 
+<img src="https://github.com/mahaprasadnayak/Bouncing_Ball_GO/blob/main/zoom_0.gif">
